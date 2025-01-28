@@ -64,6 +64,5 @@ The bot is built using:
 - `/filter <type>` - Filter by type (e.g., coat of arms, flag)
 - `/sort <param>` - Sort data by registration date or another parameter
 
-Contributions to the project are welcome, and developers should adhere to standard C# coding conventions. The project is licensed under the MIT License.
 
 
